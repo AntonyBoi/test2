@@ -1,13 +1,10 @@
 {
-  "name": "test2",
-  "version": "1.0.0",
-  "description": "Testing",
+  "version": "0.0.1",
   "main": "scraper.js",
   "dependencies": {
-    "@tsconfig/node16": "^16.1.1",
-    "cheerio": "^1.0.0-rc.12",
-    "request-promise": "^4.2.6",
-    "sqlite3": "^5.1.6"
+    "cheerio": "latest",
+    "request": "latest",
+    "sqlite3": "latest"
   },
   "keywords": [
     "scraper",
